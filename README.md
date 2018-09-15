@@ -1,1 +1,1 @@
-server
+Ummm I made this so I could control shit my computer from my phone (one of my first programs with php)
